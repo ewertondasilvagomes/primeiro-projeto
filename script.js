@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyBPOmXUtqcXATonhjw-pkWArcM4reU2gg';
+const API_KEY = '';
 
 let player;
 let repeatedSections = [];
